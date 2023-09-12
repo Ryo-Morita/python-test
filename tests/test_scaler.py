@@ -4,6 +4,7 @@ import numpy as np
 # test前にする処理をsetupというらしい。
 # 以下のsetupはpytestのお作法になっているわけでなないかも。
 # .setup_class()で事前の処理を書けるっぽい
+# classmethodの第一引数はlcsになっているが、selfと意味は一緒(というか慣例的にclsとしているだけで、hogeとしてもいい)
 
 class TestMyStandardScaler(object):
     @classmethod
