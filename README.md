@@ -1,5 +1,6 @@
 # python-test
 - https://www.youtube.com/watch?v=Hl8UNYrp0Vg&list=WL&index=1&t=906s
+- https://www.youtube.com/watch?v=YbpKMIUjvK8
 - python 3.9で実行
 
 単一のtestコードを実施する場合
